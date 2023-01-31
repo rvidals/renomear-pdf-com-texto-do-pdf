@@ -1,5 +1,4 @@
 # Renomear arquivos pdf com nome contido no interior do pdf
-![GitHub](https://img.shields.io/github/license/rvidals/WebScraping-API-Shopee)
 
 # Sobre o projeto
 Ao longo de 2021, atuei como professor temporário pela Secretaria de Educação do Distrito Federal, dando aula de geografia para alunos do ensino médio. Como professor conselheiro, uma das minhas atribuições era disponibilizar os boletins para os meus alunos. É importante destacar que essa entrega era realizada de forma remota, visto que as aulas estavam sendo on-line em virtude da pandemia de covid-19.
